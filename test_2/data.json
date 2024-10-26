@@ -1,0 +1,18 @@
+[
+  {
+    "car": "Toyota",
+    "model" : "Land Cruiser 200"
+  },
+  {
+    "car": "Toyota",
+    "model" : "Camry 70"
+  },
+  {
+    "car": "Toyota",
+    "model" : "Corolla"
+  },
+  {
+    "car": "Toyota",
+    "model" : "Supra"
+  }
+]
